@@ -17,7 +17,7 @@ The project is **functional** and includes the following features:
 
 ---
 
-## 🛠️ Installation & Launch (For Leila)
+## 🛠️ Installation & Launch 
 
 Since you are retrieving the updated code, here is how to launch the project without errors:
 
@@ -60,7 +60,7 @@ To avoid conflicts, the code has been structured in a modular way.
 
 ---
 
-## 🚀 Deployment on Firebase Hosting (Your final step)
+## 🚀 Deployment on Firebase Hosting 
 Since you have administration rights on the Firebase project, it is up to you to put the site online.
 
 1.  **Build the application**: This command will create a `dist/` folder optimized for production.

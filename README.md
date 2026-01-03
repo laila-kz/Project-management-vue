@@ -93,6 +93,11 @@ Since you have administration rights on the Firebase project, it is up to you to
   ```
 
 Once finished, Firebase will give you a public URL (e.g., `https://project-management-xyz.web.app`). This is the link we will need to submit.
+## 🌐 Live Demo
+
+You can access the live version of the project here:  
+[Project Management App](https://project-management-81881.web.app/)
+
 
 ---
 
